@@ -1,0 +1,10 @@
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\bin\Debug\AsynkServer.exe.config
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\bin\Debug\AsynkServer.exe
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\bin\Debug\AsynkServer.pdb
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.csproj.AssemblyReference.cache
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.Form1.resources
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.Properties.Resources.resources
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.exe
+C:\Users\salih\source\repos\AsynkServer\AsynkServer\obj\Debug\AsynkServer.pdb
